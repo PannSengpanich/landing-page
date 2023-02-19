@@ -56,7 +56,7 @@ a {
 .body2 {
   padding-right: 200px;
   padding-left: 200px;
-  padding-bottom: 100px;
+  padding-bottom: 0px;
 }
 .body2container {
   display: flex;
@@ -74,7 +74,7 @@ a {
   justify-content: space-evenly;
   text-align: center;
   flex-wrap: wrap;
-  padding: 50px;
+  padding: 100px;
   align-items: center;
 }
 .info,
