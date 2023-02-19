@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   font-family: quicksand;
 }
-.logo > img {
+.logo > a > img {
   height: 50px;
   border-radius: 5px;
 }
@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1f2937;
+  background-color: black;
 }
 .links {
   display: flex;
@@ -26,7 +26,7 @@ a {
 .body1 {
   padding: 50px 200px;
 
-  background-color: #1f2937;
+  background-color: black;
 }
 .body1container {
   display: flex;
@@ -78,7 +78,7 @@ a {
 .info,
 .info > img {
   border-radius: 5px;
-  max-width: 125px;
+  max-width: 200px;
 }
 .body3 {
   padding: 50px 200px;
@@ -91,7 +91,7 @@ a {
 }
 .quote {
   font-size: 36px;
-  font-style: light italic;
+  font-style: italic;
   color: #1f2937;
 }
 .owner {
@@ -107,7 +107,7 @@ a {
   padding: 30px 50px;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background-color: #3882f6;
   color: white;
   gap: 50px;
