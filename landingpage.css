@@ -71,14 +71,22 @@ a {
   margin: 30px 0px;
 }
 .information {
+  flex-direction: row;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
+  flex-wrap: wrap;
+  padding: 50px;
+  align-items: center;
 }
 .info,
 .info > img {
   border-radius: 5px;
   max-width: 200px;
+}
+.info {
+  width: 200px;
+  height: 300px;x
 }
 .body3 {
   padding: 50px 200px;
