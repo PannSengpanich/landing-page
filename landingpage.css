@@ -6,6 +6,7 @@ body {
 }
 .logo > img {
   height: 50px;
+  border-radius: 5px;
 }
 .header {
   padding: 5px 200px;
@@ -115,6 +116,17 @@ a {
 }
 .big2 {
   font-weight: 700;
+}
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
 }
 .footer {
   padding: 20px 0;
