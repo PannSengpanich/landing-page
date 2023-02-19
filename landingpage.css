@@ -9,7 +9,7 @@ body {
   border-radius: 5px;
 }
 .header {
-  padding: 5px 200px;
+  padding: 10px 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -39,8 +39,6 @@ a {
   flex: 1;
   justify-content: center;
   gap: 10px;
-}
-.body1right {
 }
 .body1right > img {
   max-width: 400px;
@@ -86,7 +84,7 @@ a {
 }
 .info {
   width: 200px;
-  height: 300px;x
+  height: 300px;
 }
 .body3 {
   padding: 50px 200px;
@@ -119,8 +117,6 @@ a {
   background-color: #3882f6;
   color: white;
   gap: 50px;
-}
-.body4info {
 }
 .big2 {
   font-weight: 700;
